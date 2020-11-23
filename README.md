@@ -1,2 +1,2 @@
 # udsdata
-Data for Undercover Data Science project
+Data package for Undercover Data Science project
