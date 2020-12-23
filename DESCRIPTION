@@ -1,7 +1,7 @@
 Package: udsdata
 Type: Package
 Title: Data For The Undercover Data Science Project
-Version: 0.1.0
+Version: 0.1.1
 Author: Anna Fergusson
 Maintainer: Anna Fergusson <a.fergusson@auckland.ac.nz>
 Description: Data for the undercover data science project.

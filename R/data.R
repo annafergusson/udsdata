@@ -20,3 +20,6 @@
 #'   \item{Count}{The number of babies born with this name}
 #' }
 "babyjustnames"
+#'
+#'
+"nzfoodprices"
